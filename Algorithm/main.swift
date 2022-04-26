@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Swift 언어로 알고리즘을 공부합니다.")
 
